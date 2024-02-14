@@ -12,7 +12,7 @@ And after work you can save you file and send it to you manager or bookkeeper.
 
 ### Instalation:
  - Install gitBash on https://git-scm.com/downloads
- - startup gitBash after installation
+ - run gitBash after installation
  - create folder on directory c:/
  - write comand: cd c:/yourfolder/
  - write command: git clone https://github.com/OldAchoK/FarmEdApp.git
