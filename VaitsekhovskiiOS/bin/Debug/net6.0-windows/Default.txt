@@ -1,0 +1,9 @@
+Mammal,Dog,6,Male
+Animal,Crow,1
+Artiodactyl,Cow,150,Female,True
+Animal,Chicker,3
+Mammal,Cat,5,Female
+Mammal,Rat,123,123
+Mammal,Ape,12,Male
+Artiodactyl,Mustang,160,Male,False
+Animal,Goose,12
