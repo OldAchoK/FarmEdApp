@@ -15,6 +15,6 @@ And after work you can save you file and send it to you manager or bookkeeper.
  - startup gitBash after installation
  - create folder on directory c:/
  - write comand: cd c:/yourfolder/
- - write command: git clone https://git-scm.com/downloads
+ - write command: git clone https://github.com/OldAchoK/FarmEdApp.git
  - open c:/yourfolder/
  - open exe file
