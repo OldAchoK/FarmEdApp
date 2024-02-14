@@ -11,3 +11,10 @@ And after work you can save you file and send it to you manager or bookkeeper.
 - Minimalistic graphical interface for desktop application;
 
 ### Instalation:
+ - Install gitBash on https://git-scm.com/downloads
+ - startup gitBash after installation
+ - create folder on directory c:/
+ - write comand: cd c:/yourfolder/
+ - write command: git clone https://git-scm.com/downloads
+ - open c:/yourfolder/
+ - open exe file
